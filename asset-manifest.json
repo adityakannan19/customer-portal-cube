@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adityakannan19/customer-portal-cube/static/css/main.5909f241.css",
-    "main.js": "/adityakannan19/customer-portal-cube/static/js/main.a0edb831.js",
-    "static/js/453.6f274214.chunk.js": "/adityakannan19/customer-portal-cube/static/js/453.6f274214.chunk.js",
-    "index.html": "/adityakannan19/customer-portal-cube/index.html",
-    "main.5909f241.css.map": "/adityakannan19/customer-portal-cube/static/css/main.5909f241.css.map",
-    "main.a0edb831.js.map": "/adityakannan19/customer-portal-cube/static/js/main.a0edb831.js.map",
-    "453.6f274214.chunk.js.map": "/adityakannan19/customer-portal-cube/static/js/453.6f274214.chunk.js.map"
+    "main.css": "/customer-portal-cube/static/css/main.5909f241.css",
+    "main.js": "/customer-portal-cube/static/js/main.3c2a397d.js",
+    "static/js/453.6f274214.chunk.js": "/customer-portal-cube/static/js/453.6f274214.chunk.js",
+    "index.html": "/customer-portal-cube/index.html",
+    "main.5909f241.css.map": "/customer-portal-cube/static/css/main.5909f241.css.map",
+    "main.3c2a397d.js.map": "/customer-portal-cube/static/js/main.3c2a397d.js.map",
+    "453.6f274214.chunk.js.map": "/customer-portal-cube/static/js/453.6f274214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5909f241.css",
-    "static/js/main.a0edb831.js"
+    "static/js/main.3c2a397d.js"
   ]
 }
