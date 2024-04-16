@@ -1,0 +1,22 @@
+.photo-grid {
+  display: flex;
+  justify-content: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: opacity 1s ease-in-out;
+}
+
+.photo-grid img.active {
+  border: none;
+  opacity: 1;
+}
